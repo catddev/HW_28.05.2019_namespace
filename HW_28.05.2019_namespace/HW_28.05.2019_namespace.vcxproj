@@ -121,6 +121,10 @@
     <ClInclude Include="Rectangle.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Circle.cpp" />
+    <ClCompile Include="Complex.cpp" />
+    <ClCompile Include="Fraction.cpp" />
+    <ClCompile Include="Rectangle.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
